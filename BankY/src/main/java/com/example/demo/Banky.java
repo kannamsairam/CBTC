@@ -12,7 +12,7 @@ public class Banky {
         try (Connection conn = DriverManager.getConnection(databaseURL, databaseUSER, databasePASSWORD)) {
             Scanner scanner = new Scanner(System.in);
             System.out.println("-------------------------------------------------");
-            System.out.println("********WELCOME TO RADHIKA REDDY BANKY***********");
+            System.out.println("********WELCOME TO SAI RAM BANKY***********");
             System.out.println("-------------------------------------------------");
 
             while (true) {
